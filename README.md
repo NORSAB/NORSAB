@@ -101,21 +101,23 @@ I transform data into stories—and inspire future BI and ML practitioners throu
 </a>
 
 ---
-
 ### Badges
-<b>My GitHub Stats</b>
+<h2 align="center">📊 My GitHub Stats</h2>
 
-<a href="http://www.github.com/NORSAB">
-  <img src="https://github-readme-stats.vercel.app/api?username=NORSAB&show_icons=true&count_private=true&title_color=ec4899&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="NORSAB's GitHub stats" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NORSAB&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="NORSAB's GitHub stats" />
+</p>
 
-<a href="http://www.github.com/NORSAB">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NORSAB&stroke=22c55e&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=22c55e&currStreakLabel=ec4899&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NORSAB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<a href="https://github.com/NORSAB" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORSAB&langs_count=10&title_color=ec4899&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<h4 align="center">Top Languages</h4>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORSAB&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ---
 
