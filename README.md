@@ -1,6 +1,20 @@
 <div align="center">
   <img src="https://i.imgur.com/1S2qnOv.png" alt="Norman Sabillon Banner" style="max-width: 100%; height: auto;" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/norman-reynaldo-sabillon-castro">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/924513">
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  </a>
+  <a href="https://www.novypro.com/profile_about/norman-reynaldosabillon-castro">
+    <img src="https://img.shields.io/badge/novyPro-6B21A8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAMAAACM8nO1AAAAn1BMVEUAAAD///////////////////////////////////////////////////////////////9GxPRhAAAAIHRSTlMAAQIDBAYHCAsMEhcbHyEhIyYvQkZTSltfwMfX2N7i5u/9wHZFZ1IAAAFiSURBVDjLY2AYBcYGJmYWBiYGNk6OZk5OLm4eLiEhJwcnEJKWkkvLyMrKycnJy8vKyOrqysXFxMTEysjJzcvLycnJyMDAwMjAwcDAw8PTz8XLx9fD18/f0CAKfj4uTk5eVlZmduJScnPzs/M3Nx8eHxCQkKSkZ6tKAgMAAQ2hDRhgt5fwAAAAASUVORK5CYII=" alt="novyPro Badge"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/norman.reynaldo.sabillon.castro/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-1B75BB?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
 </div>
+
 
 ---
 
