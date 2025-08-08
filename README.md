@@ -1,7 +1,8 @@
 <div align="center">
-  <h1>Hola, soy Norman Sabillon <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="30px" alt="saludo" /></h1>
   <img src="https://i.imgur.com/1S2qnOv.png" alt="Norman Sabillon Banner" style="max-width: 100%; height: auto;" />
 </div>
+
+---
 
 ## About Me
 
