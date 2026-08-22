@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="200" viewBox="0 0 350 200">
+  <style>
+    * { font-family: 'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; }
+    .title { font-size: 20px; font-weight: 600; fill: #70a5fd; }
+    .lang-label { font-size: 14px; font-weight: 500; fill: #94a3b8; }
+  </style>
+  <rect x="1" y="1" rx="8" ry="8" width="348" height="198" stroke="#2a2e42" stroke-width="1.5" fill="#1a1b27" />
+  
+  <!-- Title -->
+  <text x="25" y="36" class="title">Top Languages by Repo</text>
+  
+  <!-- Legend -->
+  <g transform="translate(25, 60)">
+    <!-- Jupyter Notebook: Vibrant Yellow -->
+    <rect y="8" width="14" height="14" rx="3" fill="#FACC15" />
+    <text x="24" y="20" class="lang-label">Jupyter Notebook</text>
+    
+    <!-- Python: Modern Cyan / Sky Blue -->
+    <rect y="38" width="14" height="14" rx="3" fill="#38BDF8" />
+    <text x="24" y="50" class="lang-label">Python</text>
+    
+    <!-- HTML: Distinct Coral Red -->
+    <rect y="68" width="14" height="14" rx="3" fill="#EF4444" />
+    <text x="24" y="80" class="lang-label">HTML</text>
+  </g>
+  
+  <!-- Donut Chart with distinct color contrast -->
+  <g transform="translate(245, 115)">
+    <!-- Jupyter Segment (Yellow #FACC15) -->
+    <path d="M 0 -55 A 55 55 0 0 1 23.88 49.55 L 13.90 28.83 A 32 32 0 0 0 0 -32 Z" fill="#FACC15" stroke="#1a1b27" stroke-width="2.5" />
+    <!-- Python Segment (Cyan Blue #38BDF8) -->
+    <path d="M 23.88 49.55 A 55 55 0 0 1 -53.62 12.24 L -31.20 7.12 A 32 32 0 0 0 13.90 28.83 Z" fill="#38BDF8" stroke="#1a1b27" stroke-width="2.5" />
+    <!-- HTML Segment (Coral Red #EF4444) -->
+    <path d="M -53.62 12.24 A 55 55 0 0 1 0 -55 L 0 -32 A 32 32 0 0 0 -31.20 7.12 Z" fill="#EF4444" stroke="#1a1b27" stroke-width="2.5" />
+  </g>
+</svg>

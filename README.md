@@ -194,7 +194,7 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
 <div align="center">
   <p>
     <a href="https://github.com/NORSAB?tab=repositories">
-      <img src="https://img.shields.io/github/repos-public/NORSAB?label=Public%20Repositories&style=for-the-badge&logo=github&color=0891b2&labelColor=1e293b" alt="Repositories"/>
+      <img src="https://img.shields.io/badge/Public_Repos-12-0891b2?style=for-the-badge&logo=github&labelColor=1e293b" alt="Public Repositories"/>
     </a>
     <a href="https://github.com/NORSAB?tab=followers">
       <img src="https://img.shields.io/github/followers/NORSAB?label=Followers&style=for-the-badge&logo=github&color=38bdf8&labelColor=1e293b" alt="Followers"/>
@@ -208,7 +208,7 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NORSAB&theme=tokyonight" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NORSAB&theme=tokyonight" alt="Repos per Language" />
+  <img src="assets/top_languages.svg" alt="Top Languages by Repo" />
 </div>
 
 ---
