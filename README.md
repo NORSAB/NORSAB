@@ -4,7 +4,7 @@
 
   <h1>MSc. Norman Reynaldo Sabillón Castro</h1>
   <p><strong>Dual Master's in Applied Mathematics (UNAH) & Big Data / Visual Analytics (UNIR)</strong></p>
-  <p><strong>Data & AI/ML Specialist &middot; BI Specialist @ Qualtop (BCIE) &middot; Founder & CEO @ NORSAB ANALYTICS</strong></p>
+  <p><strong>Ph.D. in Artificial Intelligence Aspirant (UNADE 2027) &middot; Data & AI/ML Specialist &middot; BI Specialist @ Qualtop (BCIE)</strong></p>
   <p><em>Tegucigalpa, Francisco Morazán, Honduras</em></p>
 
   <p>
@@ -37,11 +37,12 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
 
 - 🏛️ **Multilateral Banking & Enterprise BI:** **Visual Analytics Analyst & BI Specialist at Qualtop** dedicated to the **Central American Bank for Economic Integration (CABEI / BCIE)** analytics ecosystem. Designing mission-critical dashboards in Tableau and Power BI, leading platform migrations, and serving as Qualtop Brand Ambassador & Data Community Committee member.
 - 🚀 **Entrepreneurship & Consulting:** **Founder and CEO of NORSAB ANALYTICS**, delivering advanced predictive modeling, BI engineering, and high-impact corporate data literacy programs across Latin America.
-- 🎓 **Dual Master's Academic Foundation:**
+- 🎓 **Academic Trajectory & Doctoral Goals:**
+  - 🎯 **Ph.D. in Artificial Intelligence Candidate / Aspirant (2027)** — *Universidad Americana de Europa (UNADE México)*
   - **M.Sc. in Big Data Analysis & Visual Analytics** — *Universidad Internacional de La Rioja (UNIR México)*
   - **M.Sc. in Mathematics, Engineering & Statistics (Mathematical Engineering)** — *Universidad Nacional Autónoma de Honduras (UNAH)*
   - **B.Sc. in Electrical Engineering** — *Universidad Nacional Autónoma de Honduras (UNAH)*
-- 📄 **Peer-Reviewed IEEE Research:** Author of published IEEE Xplore literature and research on reservoir computing, non-linear system identification, and econometric network modeling.
+- 📄 **Peer-Reviewed IEEE Research:** Author of published IEEE Xplore literature ([Doc #11512574](https://ieeexplore.ieee.org/document/11512574)) and research on reservoir computing, non-linear system identification, and econometric network modeling (IEEE CONCAPAN 2026).
 - 🥋 **Philosophy & Core Values:** Long-time Kung Fu practitioner—applying discipline, fluid adaptability, structure, and precision to algorithmic design and data architectures.
 
 ---
@@ -72,6 +73,26 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
     </td>
   </tr>
 </table>
+
+---
+
+## 🎯 Current AI Specialization Track (Target 2026 &rarr; Ph.D. 2027)
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                               AI CERTIFICATION & DOCTORAL ROADMAP                               │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 📅 Oct 16, 2026 │ Microsoft Exam AI-103: Developing AI Apps and Agents on Azure                 │
+│                 │ • Order: 0080-6575-7302 · Candidate ID: MS0991441449 · Reg ID: 542938496      │
+│                 │ • Focus: Multi-agent orchestration, Azure OpenAI, RAG, and AI app development │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🚀 2026 Target  │ Databricks Certified Generative AI Engineer Associate                         │
+│                 │ • Focus: LLM fine-tuning, vector search, compound AI systems, and MLflow      │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🎓 2027 Target  │ Ph.D. in Artificial Intelligence · UNADE México                               │
+│                 │ • Advanced research in non-linear dynamic systems, neural operators & AI     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -155,9 +176,10 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### ☁️ Cloud, Big Data & Data Engineering
+### ☁️ Cloud, Big Data & Generative AI Engineering
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI_Agents-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
