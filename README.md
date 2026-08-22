@@ -192,11 +192,23 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
 ## 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NORSAB&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NORSAB&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORSAB&langs_count=8&theme=tokyonight&layout=compact&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+  <p>
+    <a href="https://github.com/NORSAB?tab=repositories">
+      <img src="https://img.shields.io/github/repos-public/NORSAB?label=Public%20Repositories&style=for-the-badge&logo=github&color=0891b2&labelColor=1e293b" alt="Repositories"/>
+    </a>
+    <a href="https://github.com/NORSAB?tab=followers">
+      <img src="https://img.shields.io/github/followers/NORSAB?label=Followers&style=for-the-badge&logo=github&color=38bdf8&labelColor=1e293b" alt="Followers"/>
+    </a>
+    <a href="https://github.com/NORSAB">
+      <img src="https://img.shields.io/github/stars/NORSAB?label=Stars&style=for-the-badge&logo=github&color=f59e0b&labelColor=1e293b" alt="Stars"/>
+    </a>
+  </p>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NORSAB&theme=tokyonight" alt="GitHub Profile Summary" style="max-width: 100%; height: auto;" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NORSAB&theme=tokyonight" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NORSAB&theme=tokyonight" alt="Repos per Language" />
 </div>
 
 ---
