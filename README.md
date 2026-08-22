@@ -51,25 +51,35 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 IEEE Xplore Published Research</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">📄 IEEE Xplore Publication</h3>
       <p align="center">
         <a href="https://ieeexplore.ieee.org/document/11512574">
-          <img src="https://img.shields.io/badge/IEEE_Xplore-Document_11512574-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication" />
+          <img src="https://img.shields.io/badge/IEEE_Xplore-Doc_11512574-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication" />
         </a>
       </p>
-      <p>Peer-reviewed scientific contribution in IEEE international conference proceedings focusing on applied mathematical frameworks, optimization, and advanced engineering analytics.</p>
+      <p>Peer-reviewed scientific contribution in IEEE international conference proceedings focusing on applied mathematical optimization and engineering analytics.</p>
       <p>👉 <a href="https://ieeexplore.ieee.org/document/11512574"><strong>Read on IEEE Xplore &rarr;</strong></a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏛️ Coupled-TCRA BCIE (IEEE CONCAPAN)</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">🏛️ Coupled-TCRA BCIE</h3>
       <p align="center">
         <a href="https://github.com/NORSAB/Coupled-TCRA-BCIE">
-          <img src="https://img.shields.io/badge/IEEE_CONCAPAN_2026-Strong_Accept-success?style=for-the-badge&logo=github&logoColor=white" alt="Coupled-TCRA Repo" />
+          <img src="https://img.shields.io/badge/IEEE_CONCAPAN-Strong_Accept-success?style=for-the-badge&logo=github&logoColor=white" alt="Coupled-TCRA Repo" />
         </a>
       </p>
-      <p>Hierarchical 16+1 reservoir computing framework (SSRC + row-wise NNLS) modeling multilateral investment dynamics across 65 years of CABEI approvals with reproducible open data pipelines.</p>
-      <p>👉 <a href="https://github.com/NORSAB/Coupled-TCRA-BCIE"><strong>View Open Replication Repository &rarr;</strong></a></p>
+      <p>Hierarchical 16+1 reservoir computing framework (SSRC + row-wise NNLS) modeling multilateral investment dynamics across 65 years of CABEI loan ledgers.</p>
+      <p>👉 <a href="https://github.com/NORSAB/Coupled-TCRA-BCIE"><strong>View Repository &rarr;</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌀 NG-RC & SSRC Chaos</h3>
+      <p align="center">
+        <a href="https://github.com/NORSAB/NGRC-Instability-SSRC-Chaos">
+          <img src="https://img.shields.io/badge/AIP_Chaos_2026-Target-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="AIP Chaos Repo" />
+        </a>
+      </p>
+      <p>Analytical proofs for quartic trace scaling ($M^4$), 30-seed Lorenz-63 crossed bootstrap ablations, and conical positivity constraints for chaotic and financial volatility flows.</p>
+      <p>👉 <a href="https://github.com/NORSAB/NGRC-Instability-SSRC-Chaos"><strong>View Replication Code &rarr;</strong></a></p>
     </td>
   </tr>
 </table>
