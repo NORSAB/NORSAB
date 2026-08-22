@@ -1,70 +1,133 @@
 <div align="center">
-  <img src="https://i.imgur.com/1S2qnOv.png" alt="Norman Sabillon Banner" style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="https://i.imgur.com/1S2qnOv.png" alt="Norman Sabillon Banner" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
   <br><br>
 
-  <h1>Norman Reynaldo Sabillón Castro</h1>
-  <p><strong>Data & AI/ML Specialist &middot; Applied Mathematics Researcher &middot; Advanced Visual Analytics</strong></p>
-  <p><em>Tegucigalpa, Honduras</em></p>
+  <h1>MSc. Norman Reynaldo Sabillón Castro</h1>
+  <p><strong>Dual Master's in Applied Mathematics (UNAH) & Big Data / Visual Analytics (UNIR)</strong></p>
+  <p><strong>Data & AI/ML Specialist &middot; BI Specialist @ Qualtop (BCIE) &middot; Founder & CEO @ NORSAB ANALYTICS</strong></p>
+  <p><em>Tegucigalpa, Francisco Morazán, Honduras</em></p>
 
   <p>
+    <a href="https://ieeexplore.ieee.org/document/11512574">
+      <img src="https://img.shields.io/badge/IEEE_Xplore-Author-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
+    </a>
     <a href="https://www.linkedin.com/in/norman-reynaldo-sabillon-castro">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/924513">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
-    </a>
-    <a href="https://www.novypro.com/profile_about/norman-reynaldosabillon-castro">
-      <img src="https://img.shields.io/badge/novyPro-6B21A8?style=for-the-badge&logo=powerbi&logoColor=white" alt="novyPro Badge"/>
+      <img src="https://img.shields.io/badge/Power_BI_Community-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Community"/>
     </a>
     <a href="https://public.tableau.com/app/profile/norman.reynaldo.sabillon.castro/vizzes">
-      <img src="https://img.shields.io/badge/Tableau-1B75BB?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+      <img src="https://img.shields.io/badge/Tableau_Public-1B75BB?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
+    </a>
+    <a href="https://www.novypro.com/profile_about/norman-reynaldosabillon-castro">
+      <img src="https://img.shields.io/badge/novyPro-Portfolio-6B21A8?style=for-the-badge&logo=powerbi&logoColor=white" alt="novyPro"/>
     </a>
     <a href="mailto:sabillonrey2004@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Executive Summary
 
-Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** specialized in transforming complex institutional and financial datasets into actionable intelligence, predictive models, and high-impact visual storytelling.
+Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** with dual Master's degrees and over 8 years of specialized experience designing and deploying enterprise analytics, mathematical modeling, and actionable business intelligence for multilateral banking, governmental institutions, and multinational corporations.
 
-- 🎓 **Academic & Research:** Applied Mathematics (UNAH) & Big Data / Visual Analytics (UNIR). Focusing on non-linear reservoir computing, time-series econometrics, and graph neural representations.
-- 🔬 **Latest Research:** Author of **Coupled-TCRA** for IEEE CONCAPAN 2026 (*A Multivariate Reservoir Framework for BCIE Regional Investment Dynamics*) & structural econometric models for multilateral development banking.
-- 💼 **Enterprise Analytics:** Architecting end-to-end data pipelines, executive dashboards, and ML solutions across Power BI, Tableau, Python, GCP, and Azure.
-- 🥋 **Philosophy:** Dedicated Kung Fu practitioner—bringing discipline, flow, continuous balance, and precision to engineering and data modeling.
-- 🤝 **Community & Mentorship:** Active mentor and speaker across Latin American data communities, coaching future professionals in BI, ML, and applied analytics.
+- 🏛️ **Multilateral Banking & Enterprise BI:** **Visual Analytics Analyst & BI Specialist at Qualtop** dedicated to the **Central American Bank for Economic Integration (CABEI / BCIE)** analytics ecosystem. Designing mission-critical dashboards in Tableau and Power BI, leading platform migrations, and serving as Qualtop Brand Ambassador & Data Community Committee member.
+- 🚀 **Entrepreneurship & Consulting:** **Founder and CEO of NORSAB ANALYTICS**, delivering advanced predictive modeling, BI engineering, and high-impact corporate data literacy programs across Latin America.
+- 🎓 **Dual Master's Academic Foundation:**
+  - **M.Sc. in Big Data Analysis & Visual Analytics** — *Universidad Internacional de La Rioja (UNIR México)*
+  - **M.Sc. in Mathematics, Engineering & Statistics (Mathematical Engineering)** — *Universidad Nacional Autónoma de Honduras (UNAH)*
+  - **B.Sc. in Electrical Engineering** — *Universidad Nacional Autónoma de Honduras (UNAH)*
+- 📄 **Peer-Reviewed IEEE Research:** Author of published IEEE Xplore literature and research on reservoir computing, non-linear system identification, and econometric network modeling.
+- 🥋 **Philosophy & Core Values:** Long-time Kung Fu practitioner—applying discipline, fluid adaptability, structure, and precision to algorithmic design and data architectures.
 
 ---
 
-## 🔬 Featured Research & Flagship Projects
+## 📚 Publications & Flagship Research
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🏛️ Coupled-TCRA BCIE</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 IEEE Xplore Published Research</h3>
+      <p align="center">
+        <a href="https://ieeexplore.ieee.org/document/11512574">
+          <img src="https://img.shields.io/badge/IEEE_Xplore-Document_11512574-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication" />
+        </a>
+      </p>
+      <p>Peer-reviewed scientific contribution in IEEE international conference proceedings focusing on applied mathematical frameworks, optimization, and advanced engineering analytics.</p>
+      <p>👉 <a href="https://ieeexplore.ieee.org/document/11512574"><strong>Read on IEEE Xplore &rarr;</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏛️ Coupled-TCRA BCIE (IEEE CONCAPAN)</h3>
       <p align="center">
         <a href="https://github.com/NORSAB/Coupled-TCRA-BCIE">
-          <img src="https://img.shields.io/badge/IEEE_CONCAPAN_2026-Accepted-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Badge" />
+          <img src="https://img.shields.io/badge/IEEE_CONCAPAN_2026-Strong_Accept-success?style=for-the-badge&logo=github&logoColor=white" alt="Coupled-TCRA Repo" />
         </a>
       </p>
-      <p>Hierarchical 16+1 reservoir computing framework (SSRC + row-wise NNLS) modeling multilateral loan dynamics and structural spillover effects across 65 years of CABEI approvals with reproducible open data pipeline.</p>
-      <p>👉 <a href="https://github.com/NORSAB/Coupled-TCRA-BCIE"><strong>View Repository & Replication Package &rarr;</strong></a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 BCIE Open Data & ML Lab</h3>
-      <p align="center">
-        <a href="https://github.com/NORSAB/Datos-Abiertos-BCIE">
-          <img src="https://img.shields.io/badge/Data_Intelligence-Open_Science-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open Data Badge" />
-        </a>
-      </p>
-      <p>Comprehensive ecosystem for multilateral development bank loan ledger analytics, automated CKAN ingestion, econometric regime detection, and interactive intelligence dashboards.</p>
-      <p>👉 <a href="https://github.com/NORSAB/Datos-Abiertos-BCIE"><strong>Explore Datasets & Pipelines &rarr;</strong></a></p>
+      <p>Hierarchical 16+1 reservoir computing framework (SSRC + row-wise NNLS) modeling multilateral investment dynamics across 65 years of CABEI approvals with reproducible open data pipelines.</p>
+      <p>👉 <a href="https://github.com/NORSAB/Coupled-TCRA-BCIE"><strong>View Open Replication Repository &rarr;</strong></a></p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 Verified Licenses & Professional Certifications
+
+<div align="center">
+
+| Issuing Body | Certification / Accreditation | Credential ID |
+| :--- | :--- | :--- |
+| **Databricks** | **Databricks Certified Data Analyst Associate** | `180038422` |
+| **Databricks** | **Academy Accreditation - Generative AI Fundamentals** | `172236459` |
+| **Databricks** | **Academy Accreditation - Databricks Fundamentals** | `172206442` |
+| **Microsoft** | **Microsoft Certified: Fabric Analytics Engineer Associate** | `35EF9E515BE71C45` |
+| **Microsoft** | **Microsoft Certified: Data Analyst Associate (PL-300 / DA-100)** | `891E840B18DFD7EB` |
+| **Microsoft** | **Microsoft Certified: Azure Data Fundamentals (DP-900)** | `ABACA5913B01340E` |
+| **Microsoft** | **Microsoft Certified: Azure Fundamentals (AZ-900)** | `991441449` |
+| **Google Cloud** | **Analyze and Visualize Looker Data Skill Badge** | `20386745` |
+| **Google Cloud** | **Derive Insights from BigQuery Data Skill Badge** | `20326686` |
+| **Google Cloud** | **Engineer Data for Predictive Modeling with BigQuery ML** | `e4db612b` |
+| **Google Cloud** | **Create ML Models with BigQuery ML Skill Badge** | `1ae2bb24` |
+| **Google Cloud** | **Prepare Data for ML APIs on Google Cloud Skill Badge** | `5f0f8bfd` |
+| **Google / Coursera**| **Google Data Analytics Professional Certificate** | `CYN4VLGVHCMP` |
+| **Google / Coursera**| **Google Project Management Professional Certificate** | `AT2EQK7JLRYP` |
+| **Tableau** | **Tableau Desktop Specialist** | `fefbcdd3` |
+| **Tableau** | **Tableau Author & Tableau Fundamentals** | `ecf274ff` |
+| **DataCamp** | **Data Analyst Associate (DAA)** | `DAA0016967861644` |
+| **DataCamp** | **SQL Associate (SQA)** | `SQA0016663765132` |
+| **DataCamp** | **Data Literacy Certified** | `DL0036280499181` |
+| **DataCamp** | **Databricks Data Analyst Track Certified** | `f3e77ba0` |
+
+</div>
+
+---
+
+## 💼 Professional Experience & Leadership
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                 CAREER TIMELINE & LEADERSHIP                                    │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 2025 - Present │ Visual Analytics Analyst & BI Specialist · Qualtop (CABEI / BCIE Project)      │
+│                │ • Strategic dashboards in Tableau & Power BI, governance, platform migration.  │
+│                │ • Qualtop Brand Ambassador & Data Community Committee Member.                  │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 2021 - Present │ Founder & CEO · NORSAB ANALYTICS                                               │
+│                │ • Advanced predictive modeling, BI consulting & corporate training in LATAM.   │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 2020 - 2025    │ Senior / Junior BI Consultant at CABEI · Arkkosoft                             │
+│                │ • 4+ years leading data certification, Master Data Services & Tableau BI.       │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 2021 - 2025    │ International BI & Power BI Instructor / Consultant                            │
+│                │ • RTI International (Education indicators, DAX modeling).                      │
+│                │ • DAI (M&E Consultant, USAID Asegurando la Educación).                         │
+│                │ • MAGNATIC, 0-Day Security, New Horizons, Global Talent LATAM, Quality Global. │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -72,7 +135,7 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### 💻 Data Science, AI/ML & Applied Mathematics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -83,20 +146,21 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-### 📊 Business Intelligence & Data Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+### 📊 Business Intelligence & Visual Storytelling
+![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=microsoft&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Excel / Power Query](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### ☁️ Cloud, Databases & Big Data
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+### ☁️ Cloud, Big Data & Data Engineering
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -122,12 +186,12 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://www.novypro.com/profile_about/norman-reynaldosabillon-castro">
-    <img src="https://img.shields.io/badge/NovyPro-Portfolio-6B21A8?style=for-the-badge&logo=powerbi&logoColor=white" alt="NovyPro Portfolio"/>
+  <a href="https://public.tableau.com/app/profile/norman.reynaldo.sabillon.castro/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-Public_Gallery-1B75BB?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
   </a>
   &nbsp;
-  <a href="https://public.tableau.com/app/profile/norman.reynaldo.sabillon.castro/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-Public_Vizzes-1B75BB?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
+  <a href="https://www.novypro.com/profile_about/norman-reynaldosabillon-castro">
+    <img src="https://img.shields.io/badge/NovyPro-Power_BI_Gallery-6B21A8?style=for-the-badge&logo=powerbi&logoColor=white" alt="NovyPro Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:sabillonrey2004@gmail.com">
@@ -146,5 +210,5 @@ Passionate **Data Scientist, Applied Mathematics Researcher, and BI Architect** 
 </p>
 
 <div align="center">
-  <sub>⚡ <em>"Transforming raw data into predictive intelligence and meaningful human stories."</em></sub>
+  <sub>⚡ <em>"Transforming complex data and mathematical models into actionable strategic intelligence and human stories."</em></sub>
 </div>
